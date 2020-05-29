@@ -19,6 +19,7 @@ import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 
+
 public class AlumnoJpaController implements Serializable {
 
     public AlumnoJpaController(EntityManagerFactory emf) {

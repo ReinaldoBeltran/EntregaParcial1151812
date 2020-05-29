@@ -5,16 +5,24 @@
  */
 package Test.java;
 
+import Dto.Alumno;
+
 /**
  *
  * @author XCand
  */
 public class Prueba {
     
-    
-    static void Main(String[] args)
-    {
-        //insert code
+    public static void main(String[] args) {
+        Alumno alumno=new Alumno();
+       alumno.setCodigo("1151812");
+       alumno.setEmail("reinaldosb@ufps.edu.co");
+       alumno.setNombre("Reinaldo Beltran");
+       alumno.setClave("1010067588");
+        
+        
+      
+        
         
     }
     
