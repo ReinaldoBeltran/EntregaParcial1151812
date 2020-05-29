@@ -19,10 +19,7 @@ import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 
-/**
- *
- * @author Alejandro Lopez
- */
+
 public class EventoJpaController implements Serializable {
 
     public EventoJpaController(EntityManagerFactory emf) {

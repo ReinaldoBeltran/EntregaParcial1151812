@@ -24,10 +24,7 @@ import javax.persistence.TemporalType;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlTransient;
 
-/**
- *
- * @author Alejandro Lopez
- */
+
 @Entity
 @Table(name = "evento")
 @XmlRootElement

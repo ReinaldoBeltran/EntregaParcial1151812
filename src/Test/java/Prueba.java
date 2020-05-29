@@ -12,7 +12,7 @@ package Test.java;
 public class Prueba {
     
     
-    static void Main(string[] args)
+    static void Main(String[] args)
     {
         //insert code
         

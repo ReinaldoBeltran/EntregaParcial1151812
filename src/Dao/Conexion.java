@@ -8,10 +8,7 @@ package Dao;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
-/**
- *
- * @author estudiante
- */
+
 public class Conexion {
     
     private static Conexion conexion;
